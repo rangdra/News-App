@@ -21,7 +21,7 @@ function Header() {
         <div className="flex items-center justify-end space-x-2">
           <DarkModeBtn />
           <button className="hidden px-4 py-2 text-white rounded-full md:inline bg-slate-900 lg:px-6 lg:py-3 dark:bg-slate-800">
-            Subscribe Now
+            Subscribe
           </button>
         </div>
       </div>
